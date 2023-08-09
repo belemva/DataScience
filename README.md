@@ -3,9 +3,9 @@ Toujours dans le cadre des projets lancés par PSA, il a été demandé de déve
 
 La problématique est la suivante : nous sommes dans un entrepôt et recevons plusieurs bons de commandes. Sur chaque bon, il est fait référence du nombre de colis demandés, les références des colis (ici on parlera de l'identifiant du colis) ainsi que les caractéristiques de ceux-ci (taille, poids, fragilité...). A partir des informations transmises dans chaque bon de commande, nous devons donc sélectionner le container adéquat pour chaque commande et optimiser le rangement des colis dans ceux-ci afin de :
 
-1 - limiter le nombre de container exploité pour le transport de la marchandise 
-2 - éviter au maximum les zones "vides" dans le container (des zones où d'autres colis pourraient être stockés) => donc bien choisir son container et le placement des colis
-3 - globalement mieux anticiper les dépenses à prévoir pour le chargement des paquets 
+  * 1 - limiter le nombre de container exploité pour le transport de la marchandise 
+  * 2 - éviter au maximum les zones "vides" dans le container (des zones où d'autres colis pourraient être stockés) => donc bien choisir son container et le placement des colis
+  * 3 - globalement mieux anticiper les dépenses à prévoir pour le chargement des paquets 
 
 Dans notre cas, nous considérerons que les colis les plus légers sont les plus fragiles et donc ceux qui doivent être placés les plus au-dessus du container (en derniers).
 
