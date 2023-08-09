@@ -28,8 +28,20 @@ d : largeur du paquet
 h : hauteur du paquet
 w : poids du paquet
 
-La sortie de l'application aura donc un aperçu de ce type :
+Une nouvelle fenêtre s'ouvrira une fois l'application terminée. La sortie de l'application aura donc un aperçu de ce type :
 
 ![image](https://github.com/belemva/DataScience/assets/43656411/b31505b2-3846-4ae6-8b52-3d7a0599a3e2)
 
 ![](giphy.gif)
+
+Vous pouvez modifier le numéro du container observé en changeant le numéro contenu dans la variable **containers_select = results[results$tid=="1",]** ligne 61 du code.
+Vous pouvez également modifier les dimensions du container en changeant le contenu l (longueur du container), d (largeur du container), h (hauteur du container), w (poids du container) de la table bn (ligne 74 à 80 du code) : 
+bn <- data.table::data.table(
+    id = c(containers_select$tid),
+    l  = c(12032),
+    d  = c(2350),
+    h  = c(2698),
+    w  = c(100000)
+)
+
+Attention, il est possible qu'aucun aperçu ne soit généré car les dimensions renseignées pour le container ne permettent pas de stocker les paquets ! Donc, bien vérifier les dimensions du container avant de les saisir.
