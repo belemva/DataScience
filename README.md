@@ -1,4 +1,4 @@
-# DataScience
+# MAINTENANCE PREDICTIVE
 L'objectif de ce projet, dans les grandes lignes, était de mettre en place un outil capable de déterminer la survenue d'une panne sur les machines de construction dans les usines PSA à partir des informations transmises par les capteurs des dites machines ainsi que sur le nombre de cyle de vie connue pour chacune d'elle.
 
 Le descritif complet se trouve dans le document pdf PSA_Challenge_predictive_maintenance.pdf mis à disposition dans cette archive. Vous y trouverez également la démarche entreprise sous forme synthéstisée.
