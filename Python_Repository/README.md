@@ -6,8 +6,10 @@ Le présent répertoire rassemble nos travaux sur l'étude de l'optimisation de 
 
 * LaFabric - Container - Exploration container : Avec ce Notebook, vous pouvez importer un fichier pickle contenant les dimensions de vos containers et colis, et simuler le remplissage et le placement des paquets dans un container. Ici, pas d'intéraction directe avec l'utilisateur, l'application génère le remplissage automatiquement.
 
-![image](https://github.com/belemva/DataScience/assets/43656411/41256d4a-812b-4ca1-b14a-5e1c03b4312e)
+<img width="849" alt="Sans titre" src="https://github.com/belemva/DataScience/assets/43656411/604f3d65-1708-4966-aee8-379edd03e267">
+
 
 * LaFabric - Container - Generation solution : Il s'agit de l'application principale. Ce Notebook va permettre à un utilisateur de simuler un remplissage de container en définissant lui même les dimensions de ses paquets, celles de son container ainsi que le nombre maximum de paquet à placer dans le container.
 
-![image](https://github.com/belemva/DataScience/assets/43656411/b8a650d4-84c1-4708-8ebc-cdf620fdf67e)
+<img width="850" alt="Sans titre2" src="https://github.com/belemva/DataScience/assets/43656411/09b59108-21c8-41ef-8eaf-2870732bd252">
+
