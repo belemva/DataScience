@@ -4,16 +4,15 @@ Dans cette partie, nous tentons de résoudre le problème du bin packing en util
 
 Dans un premier temps, installer R et R-Studio. Vous pouvez suivre le lien suivant afin d'obtenir la dernière version des 2 outils : https://posit.co/download/rstudio-desktop/ . Une fois installés, télécharger le repo Github et ouvrez l'application RStudio. Cliquez sur 'File' > 'Open Project...'
 
-![image](https://github.com/belemva/DataScience/assets/43656411/0325e8fa-fab5-46a0-9e2f-55e7aa853138)
+<img width="807" alt="Sans titre3" src="https://github.com/belemva/DataScience/assets/43656411/fa1aed8c-c25a-4af5-87ac-57e945b7533d">
 
 Sélectionnez le projet R dont l'extension est .Rproj et cliquez sur 'Open'
 
-![image](https://github.com/belemva/DataScience/assets/43656411/5061e171-89fe-4686-af6d-c334e40b4542)
+<img width="803" alt="Sans titre4" src="https://github.com/belemva/DataScience/assets/43656411/9ae433c2-88b5-422d-b1e8-af5b165b1579">
 
 Une nouvelle fenêtre va s'ouvrir avec une console ainsi que l'arborescence de votre projet. 
 
-![image](https://github.com/belemva/DataScience/assets/43656411/676c6177-eff9-411b-922e-259b73ff708c)
-
+<img width="800" alt="Sans titre5" src="https://github.com/belemva/DataScience/assets/43656411/e35163d3-1e4b-4c5b-8138-c2667baee507">
 
 1 fichier .R est disponible. Ce fichier contient l'ensemble de nos travaux sur le sujet. Vous aurez donc accès au code permettant l'affichage du chargement d'un container suivant les caractéristiques des colis et du dit container mentionnés dans les fichiers présents dans le dossier Data_for_study. Ouvre le ficher et Faites CTRL+A puis CTRL+ENTER afin de lancer l'exéctuion de l'archive. Les différentes librairies et les différents packages nécessaires au bon fonctionnement du repository se lanceront automatiquement.
 
@@ -30,7 +29,7 @@ w : poids du paquet
 
 Une nouvelle fenêtre s'ouvrira une fois l'application terminée. La sortie de l'application aura donc un aperçu de ce type :
 
-![image](https://github.com/belemva/DataScience/assets/43656411/b31505b2-3846-4ae6-8b52-3d7a0599a3e2)
+<img width="406" alt="Sans titre6" src="https://github.com/belemva/DataScience/assets/43656411/5005d64d-9305-4b50-b7e1-9fe310695d21">
 
 ![](giphy.gif)
 
